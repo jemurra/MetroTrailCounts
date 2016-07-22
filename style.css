@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+
+#map {
+    height: 650px;
+    margin: 15px auto;
+}
+
+hr {
+    border-width:2px;
+}
+
+.dialog{
+}
